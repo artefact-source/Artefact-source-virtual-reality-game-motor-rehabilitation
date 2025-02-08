@@ -1,5 +1,8 @@
 # Artefact-source-virtual-reality-game-motor-rehabilitation
 This replication package for research pruposes is available under the CC BY 4.0 license.
+Artefact-Source-Virtual-Reality-Game-Motor-Rehabilitation
+
+This replication package for research purposes is available under the CC BY 4.0 license.
 
 Wonder Wall
 
@@ -9,23 +12,26 @@ The game was developed using the iPlus methodology and the Simple Interaction Li
 
 Built with Unity and programmed in C#, Wonder Wall includes 3D models and animations for enhanced gameplay. The project structure includes:
 
-/Assets/ for models, scripts, animations, and settings
+/code/           # Source code for the game
+/Videos/         # Demonstration and gameplay videos
+/UsabilityTest/  # Files and data related to usability testing
 
-/Scripts/ with C# source code
+To play:
 
-/Scenes/ for preconfigured game levels
+Ensure a safe space free of obstacles (preferably sitting).
 
-/Documentation/ with manuals and guides
+Put on your VR headset and start the game.
 
-/Audio/ for sound and music
+Create a session with your desired settings.
 
-To play, ensure a safe space free of obstacles, preferably sitting. Put on your VR headset, start the game, and create a session. Complete the tutorial to learn controls, then enjoy either mode: answer correctly in Learning Mode to score points or navigate obstacles in Fun Mode.
+Complete the tutorial to learn controls.
+
+Enjoy Learning Mode to score points or Fun Mode to navigate obstacles.
 
 To install, clone the repository with:
 
-git clone https://github.com/Ricker2020/WonderWall.git
+   git clone 
 
-Open the project in Unity and replace the Assets folder with the downloaded code.
+Open the project in Unity and replace the code folder with the downloaded code.
 
 Wonder Wall is licensed under CC BY-NC 4.0. Enjoy the game and immerse yourself in a unique experience!
-
